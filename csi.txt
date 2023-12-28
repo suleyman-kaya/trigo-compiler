@@ -1,0 +1,4 @@
+Bu bir örnek dosyadır.cos(0)
+İçinde sin(90), cos(720), tan(45) ve cot(45) gibi trigonometrik fonksiyoncos(3600)cos(0)lar vardır.
+Bazıları tanımsız olabilir, örneğin sec(0) veya csc(0) gibi.
+Ayrıca 1'e yakın olanlar da vardır, örneğin sin(450) veya cos(0).
